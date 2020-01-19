@@ -1,5 +1,5 @@
 [package]
-name = "mod_q1"
+name = "lib_q2"
 version = "0.1.0"
 authors = ["Muhammad Nabi"]
 edition = "2018"
